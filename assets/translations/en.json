@@ -1,0 +1,177 @@
+{
+    "sign_in": "Login",
+    "sign_up": "Sign Up",
+    "sign_out": "Sign Out",
+    "form": {
+        "field": {
+            "user_name": "User Name",
+            "email": "Email",
+            "password": "Password",
+            "confirm_password": "Confirm Password"
+        },
+        "error": {
+            "required": "{} is required.",
+            "invalid_format": "Invalid format.",
+            "min_length": "Must be at least {} characters long.",
+            "password": "Password must have:\nA number\nA symbol\nA capital letter",
+            "max_words": "This field accept just {} words.",
+            "password_not_match": "Confirm password is not the same as password."
+        }
+    },
+    "page": {
+        "main": {
+            "bottom_bar": {
+                "home": "Home",
+                "cart": "Cart",
+                "notifications": "Notifications",
+                "profile": "Profile"
+            }
+        },
+        "onboarding": {
+            "title_1": "20% Discount\nNew Arrival Products",
+            "body_1": "Publish up your selfies to make yourself more beautiful with this app.",
+            "title_2": "Take Advantage\nOf The Offer Shopping",
+            "body_2": "Publish up your selfies to make yourself more beautiful with this app.",
+            "title_3": "All Type Offers\nWithing Your Reach",
+            "body_3": "Publish up your selfies to make yourself more beautiful with this app."
+        },
+        "sign_up": {
+            "title": "Sing Up",
+            "sub_title": "Create a new account.",
+            "form": {
+                "toc": "By creating an account you have to agree with our terms & conditions.",
+                "error": {
+                    "toc": "You haven't accepted our terms & conditions."
+                }
+            }
+        },
+        "sign_in": {
+            "title": "Welcome!",
+            "sub_title": "Please sign in to enjoy the best prices.",
+            "divider": "or",
+            "facebook": "Continue with Facebook",
+            "google": "Continue with Google"
+        },
+        "sign_up_correct": {
+            "title": "Successful!",
+            "body": "You have successfully registered in our app, you can now start shopping.",
+            "button": "Start Shopping"
+        },
+        "home": {
+            "title": "Welcome,",
+            "sub_title": "Our fashion app",
+            "hint_search": "Search...",
+            "categories": {
+                "title": "Categories",
+                "dresses": "Dresses",
+                "jackets": "Jackets",
+                "jeans": "Jeans",
+                "shoes": "Shoes",
+                "trousers": "Trousers",
+                "top_dresses": "Top Dresses",
+                "top_jackets": "Top Jackets",
+                "top_jeans": "Top Jeans",
+                "top_shoes": "Top Shoes",
+                "top_trousers": "Top Trousers"
+            }
+        },
+        "products_list": {
+            "title": "Search results:",
+            "empty": "No results were found"
+        },
+        "product_detail": {
+            "description": "Description",
+            "add_to_cart": "Add to cart",
+            "size": "Size",
+            "available_stock": "Available stock"
+        },
+        "filter": {
+            "title": "Filter",
+            "categories": "Categories",
+            "price_range": "Price Range",
+            "ratting": "Ratting",
+            "button_apply": "Apply"
+        },
+        "cart": {
+            "title": "My Cart",
+            "total": "Total:",
+            "subtotal": "Subtotal:",
+            "shipping": "Shipping:",
+            "button": "Go to checkout"
+        },
+        "favorites": {
+            "title": "Favorites"
+        },
+        "notifications": {
+            "title": "Notifications"
+        },
+        "profile": {
+            "title": "Profile",
+            "personal_details": "Personal details",
+            "my_orders": "My orders",
+            "my_favorites": "My favorites",
+            "shipping_address": "Shipping Address",
+            "my_card": "My Card",
+            "faq": "FAQ",
+            "privacy_policy": "Privacy Policy"
+        },
+        "checkout": {
+            "title": "Checkout",
+            "delivery_address": "Delivery Address",
+            "total": "Total",
+            "button": "Place Order",
+            "dialog":  {
+                "title": "Success",
+                "body": "We have received your order, we'll start preparing the package.",
+                "button": "Continue shopping"
+            }
+        },
+        "addresses": {
+            "title": "Delivery Address"
+        }
+    },
+    "component": {
+        "top_products_list": {
+            "view_all": "View all"
+        },
+        "ratting_stars": {
+            "body": "({} Reviews)"
+        },
+        "cart_item_tile": {
+            "size": "Size: {}",
+            "color": "Color: {}"
+        },
+        "address_card": {
+            "name": "Full Name",
+            "email": "Email",
+            "phone": "Phone Number",
+            "street": "Street",
+            "city": "City",
+            "post_code": "Post Code",
+            "state": "State",
+            "country": "Country"
+        },
+        "address_tile": {
+            "add_default": "Set Default",
+            "remove_default": "Unset Default",
+            "remove": "Remove",
+            "edit": "Edit"
+        },
+        "address_form": {
+            "new_title": "New Address",
+            "edit_title": "Edit Address",
+            "address": "Address",
+            "cancel": "Cancel",
+            "submit": "Submit"
+        }
+    },
+    "error": {
+        "title": "Error!",
+        "general": "Something went worng, please try again.",
+        "cancelled": "Operation was cancelled.",
+        "user_not_found": "There is no user corresponding to the given email.",
+        "wrong_password": "The password is incorrect for the given email.",
+        "user_disabled": "User corresponding to the given action code has been disabled.",
+        "email_already_exists": "Already exists an account with the given email address."
+    }
+}
