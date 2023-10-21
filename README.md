@@ -60,3 +60,9 @@ Provider Package: https://pub.dev/packages/provide
 3. Install Firebase Auth and Console to setup the project (this should create google-services.json and GoogleServices.Info.plist)
 4. Edit any .sample file with the requested information and remove the ".sample" ending
 5. Use your favorite code editor and run the Flutter App
+
+
+---
+
+![](https://github.com/arielberardi/e_commerce/blob/main/video-sample-1.gif)
+![](https://github.com/arielberardi/e_commerce/blob/main/video-sample-2.gif)
